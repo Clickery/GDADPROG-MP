@@ -1,0 +1,3 @@
+﻿  TileMap.cpp
+D:\School\Deferred\GDADPRG\Bomber Man GDADPRG\Bomber Man GDADPRG\TileMap.cpp(14,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Bomber Man GDADPRG.vcxproj -> D:\School\Deferred\GDADPRG\Bomber Man GDADPRG\x64\Debug\Bomber Man GDADPRG.exe

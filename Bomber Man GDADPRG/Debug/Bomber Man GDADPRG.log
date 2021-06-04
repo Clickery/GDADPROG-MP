@@ -1,0 +1,35 @@
+﻿  AComponent.cpp
+D:\School\Deferred\GDADPRG\Bomber Man\Bomber Man GDADPRG\Bomber Man GDADPRG\AComponent.h(4,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  AGameObject.cpp
+D:\School\Deferred\GDADPRG\Bomber Man\Bomber Man GDADPRG\Bomber Man GDADPRG\AGameObject.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  ApplicationManager.cpp
+D:\School\Deferred\GDADPRG\Bomber Man\Bomber Man GDADPRG\Bomber Man GDADPRG\ApplicationManager.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  AView.cpp
+D:\School\Deferred\GDADPRG\Bomber Man\Bomber Man GDADPRG\Bomber Man GDADPRG\AGameObject.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  BomberManAnimation.cpp
+D:\School\Deferred\GDADPRG\Bomber Man\Bomber Man GDADPRG\Bomber Man GDADPRG\AComponent.h(4,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  BomberManObject.cpp
+D:\School\Deferred\GDADPRG\Bomber Man\Bomber Man GDADPRG\Bomber Man GDADPRG\BomberManObject.h(3,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  BomberManMovement.cpp
+D:\School\Deferred\GDADPRG\Bomber Man\Bomber Man GDADPRG\Bomber Man GDADPRG\AComponent.h(4,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  GameLoop.cpp
+D:\School\Deferred\GDADPRG\Bomber Man\Bomber Man GDADPRG\Bomber Man GDADPRG\GameLoop.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Entity.cpp
+D:\School\Deferred\GDADPRG\Bomber Man\Bomber Man GDADPRG\Bomber Man GDADPRG\Entity.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  GameObjectManager.cpp
+D:\School\Deferred\GDADPRG\Bomber Man\Bomber Man GDADPRG\Bomber Man GDADPRG\GameObjectManager.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  GenericInputController.cpp
+D:\School\Deferred\GDADPRG\Bomber Man\Bomber Man GDADPRG\Bomber Man GDADPRG\AComponent.h(4,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Main.cpp
+D:\School\Deferred\GDADPRG\Bomber Man\Bomber Man GDADPRG\Bomber Man GDADPRG\GameLoop.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  PlayerInputController.cpp
+D:\School\Deferred\GDADPRG\Bomber Man\Bomber Man GDADPRG\Bomber Man GDADPRG\AComponent.h(4,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  TextureManager.cpp
+D:\School\Deferred\GDADPRG\Bomber Man\Bomber Man GDADPRG\Bomber Man GDADPRG\TextureManager.h(3,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  UIButton.cpp
+D:\School\Deferred\GDADPRG\Bomber Man\Bomber Man GDADPRG\Bomber Man GDADPRG\AGameObject.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  UIButtonInputController.cpp
+D:\School\Deferred\GDADPRG\Bomber Man\Bomber Man GDADPRG\Bomber Man GDADPRG\AComponent.h(4,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  UIText.cpp
+D:\School\Deferred\GDADPRG\Bomber Man\Bomber Man GDADPRG\Bomber Man GDADPRG\AGameObject.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Generating Code...
